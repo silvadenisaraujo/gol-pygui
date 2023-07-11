@@ -1,0 +1,42 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+
+# PyQt generated files
+*.ui
+*.qrc
+*.pyc
+*.pyd
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+*.tar.bz2
+*.tgz
+*.zip
+*.rar
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Miscellaneous
+*.log
+*.swp
+.DS_Store
+venv/
