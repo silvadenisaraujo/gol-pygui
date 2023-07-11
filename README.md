@@ -18,3 +18,13 @@ To know more about it, please check the following link: [https://www.coderetreat
 6. Implement the next rule
 7. All Done, Congrats!
 
+## Running the project
+
+Install dependencies:
+`pip install -r requirements.txt`
+
+Running tests:
+`python -m pytest tests/`
+
+Running GUI:
+`python game_of_life.py`
